@@ -1,7 +1,7 @@
 // Created by: Allen
 // Created on: Oct 2022
 //
-// This program calculates area of a triangle
+// This program calculates area of a trapzoid
 
 using System;
 
