@@ -15,7 +15,7 @@ class Program
         int heightOfTrapzoid;
         int areaOfTrapzoid;
 
-        Console.WriteLine("This program calculates the area of a triangle.");
+        Console.WriteLine("This program calculates the area of a trapzoid.");
         Console.WriteLine("");
 
         Console.Write("Enter the base A (cm): ");
